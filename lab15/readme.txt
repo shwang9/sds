@@ -1,3 +1,5 @@
+cns_comm.zip, shapefile of community areas in the Northside Chicago
+
 hsm_chicago_ns, shapefile that contains variables for housing market segmentation by tracts in North Side Chicago. Unless noted otherwise, data come from 2013-2018 American Community Survey 5-year estimate (roughly 1% sample). 2010 data come from decennial census (100% data). 
 
 These variables are selected on the basis of their relative role in the valuation of real estate market in accordance with a hedonic pricing method. . 
